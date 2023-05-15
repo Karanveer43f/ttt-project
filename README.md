@@ -1,3 +1,6 @@
+# Live Website Netlify Link: 
+https://ttt-karanveer.netlify.app/
+
 Library used to create the bar-graph: react-apexcharts
 
 Library used to create the histogram: react-google-charts
